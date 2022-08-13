@@ -1,0 +1,2 @@
+JDK包含JRE和Java开发工具
+JRE包含JVM和核心类库
